@@ -2,7 +2,7 @@
 """
 Created on Sun Sep 22 10:22:04 2024
 
-@author: user
+@author: Hendrick A. BALLEY
 """
 
 #Exemple 1: boucle for
